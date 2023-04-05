@@ -1,0 +1,5 @@
+<>
+</>
+
+react fragment digunakan untuk wrap the elements 
+if you want to render 2 different elements to another you need to wrap them,
